@@ -1,0 +1,228 @@
+.futureDrive {
+    background-color: white;
+    border-radius: 10%;
+    height:15vmin;
+    width: 90%;
+    position: relative;
+    margin-top: 16%;
+    margin-left: 3%;
+    left: 2%;
+    box-shadow: 4px 4px 9px 13px rgba(184, 205, 156, 0.04);
+    border-radius: 10px;
+    margin: 4%;
+}
+
+#first_lastName2 {
+    position: absolute;
+    left: 10%;
+    right: 3%;
+    top: 8%;
+    bottom: 73.83%;
+    width: 50%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2vmin;
+    /* line-height: 30%; */
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #292929;
+}
+
+#sourse2 {
+    position: absolute;
+    /* left: 10%; */
+    right: 3%;
+    top: 30%;
+    bottom: 73.83%;
+    width: 30%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5vmin;
+    /* line-height: 24px; */
+    /* identical to box height */
+    text-align: right;
+    color: #292929;
+}
+
+#destination2 {
+    position: absolute;
+    left: 0%;
+    right: 65%;
+    /* margin-left: 30%; */
+    /* margin-right: 60%; */
+
+    top: 30%;
+    bottom: 73.83%;
+    width: 30%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5vmin;
+    /* line-height: 24px; */
+    /* identical to box height */
+    text-align: right;
+    color: #292929;
+}
+
+#line45 {
+    /* position: absolute; */
+    
+    margin-right: -30%;
+    margin-top: 12%;
+   color: black;
+    width: 160%;
+}
+
+#phone2 {
+    /* width: 50%; */
+    /* height: 18px; */
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.4vmin;
+    /* line-height: 18px; */
+    /* identical to box height */
+    margin-right: 22%;
+    /* margin-top: 14%; */
+    margin-top: 11%;
+    text-align: right;
+    color: #949494;
+    /* Inside auto layout */
+
+
+}
+
+#email2 {
+   
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.4vmin;
+    margin-right: 47%;
+    margin-bottom: -10%;
+    text-align: right;
+    color: #949494;
+    margin-top: -5%;
+}
+
+#phoneIcon2 {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+
+    text-align: right;
+    color: #949494;
+ 
+
+
+}
+#i{
+    height: 5%;width: 5%;
+}
+#emailIcon2 {
+
+height:20%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+ 
+    margin-right: 50%;
+    margin-bottom: -10%;
+    text-align: right;
+    color: #949494;
+    margin-top: -6%;
+    position: absol;
+
+}
+
+#date_time2 {
+    position: absolute;
+    left: 10%;
+    right: 78%;
+    top: 8%;
+    bottom: 73.83%;
+    width: 50%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.6vmin;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #292929;
+}
+
+.myDrivesTitle {
+
+    width: 50%;
+    /* height: 35px; */
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size:3.7vmin;
+    /* line-height: 15px; */
+    margin-top: 3%;
+    margin-left: 45%;
+    color: #292929;
+
+}
+
+#day {
+    width: 70%;
+
+    font-family: 'Heebo';
+    font-style: normal;
+
+    font-size: 2vmin;
+
+    margin-left: 24%;
+    color: #292929;
+}
+
+#UpdateDriverDetailsButton {
+    position: absolute;
+    left:20%;
+   
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5vmin;
+
+    /* identical to box height */
+ 
+    text-align: center;
+
+    color: #537429;
+}
+
+#DeleteDriveButton {
+    position: absolute;
+    left: 40%;
+    right: 0%;
+    top: 74%;
+    bottom: 63.57%;
+    /* width: 50%; */
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5vmin;
+    /* identical to box height */
+    height: 20%;
+    text-align: center;
+color: #E64242;
+}
+#line3{
+    margin-top:9%;
+    color: #949494;
+}
+#lineUp{
+    left: 70%;
+    right: 50%;
+    position: absolute;
+}

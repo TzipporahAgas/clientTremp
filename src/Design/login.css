@@ -1,0 +1,500 @@
+#div {
+    position: absolute;
+    width: 45%;
+    height: 95%;
+    left: 52%;
+    top: 2.5%;
+    background: #F4F0ED;
+    border-radius: 2%;
+
+}
+
+#div2 {
+    position: absolute;
+    left: 10%;
+    right: 5%;
+    top: 11%;
+    bottom: 4.55%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4.8vmin;
+    line-height: 50%;
+    text-align: right;
+    color: #000000;
+}
+
+#txt3 {
+    position: absolute;
+    left: 55%;
+    right: 3.75%;
+    top: 25%;
+    bottom: 70.02%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-size: 3.5vmin;
+    line-height: 60%;
+    text-align: right;
+    width: 40%;
+    color: #000000;
+}
+
+#sqare1 {
+    position: absolute;
+    width: 16%;
+    height: 22%;
+    left: 76%;
+    top: 38%;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 9px 13px rgba(184, 205, 156, 0.04);
+    border-radius: 2%;
+}
+
+#sqare2 {
+    position: absolute;
+    width: 16%;
+    height: 22%;
+    left: 57%;
+    top: 38%;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 9px 13px rgba(184, 205, 156, 0.04);
+    border-radius: 2.5%;
+}
+
+#sqare3 {
+    position: absolute;
+    width: 16%;
+    height: 22%;
+    left: 57%;
+    top: 65%;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 9px 13px rgba(184, 205, 156, 0.04);
+    border-radius: 2%;
+}
+
+#sqare4 {
+    position: absolute;
+    width: 16%;
+    height: 22%;
+    left: 76%;
+    top: 65%;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 9px 13px rgba(184, 205, 156, 0.04);
+    border-radius: 2%;
+}
+
+#driver {
+    position: absolute;
+    width: 30%;
+    height: 20%;
+    left: 5%;
+    top: 8%;
+    z-index: 2;
+    background: rgba(166, 231, 81, 0.45);
+    border-radius: 35.5vmin;
+}
+
+#passenger {
+    position: absolute;
+    width: 30%;
+    height: 20%;
+    left: 5%;
+    top: 8%;
+    z-index: 2;
+    background: #FFEEDD;
+    border-radius: 35.5vmin;
+}
+
+#passengerTxt {
+    position: absolute;
+    left: 8%;
+    right: 28%;
+    top: 35%;
+    bottom: 36.82%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vmin;
+    line-height: 1vmin;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #FFA143;
+}
+
+#driverTxt {
+    position: absolute;
+    left: 0%;
+    right: 33%;
+    top: 35%;
+    bottom: 36.82%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5vmin;
+    line-height: 1vmin;
+    /* identical to box height */
+    text-align: right;
+    color:
+        #5F8330
+}
+
+#emailInput {
+    position: absolute;
+    left: 12%;
+    right: 0%;
+    top: 30%;
+    bottom: 5.08%;
+    width: 33%;
+    height: 6%;
+    background: #F4F0ED !important;
+    border-radius: 26.5vmin;
+    border: none;
+}
+
+#passwordInput {
+    position: absolute !important;
+    left: 12% !important;
+    right: 0% !important;
+    top: 40% !important;
+    bottom: 5.08% !important;
+    width: 33% !important;
+    height: 6% !important;
+    background: #F4F0ED !important;
+    border-radius: 300% !important;
+    border-style: none;
+    border: none !important;
+}
+
+#driverButton {
+    position: absolute;
+    left: 29%;
+    right: 0%;
+    top: 55%;
+    bottom: 0%;
+    width: 16%;
+    height: 6%;
+    background: #9FE870;
+    border-radius: 35.5vmin;
+    border: none;
+}
+
+#passengerButton {
+    position: absolute;
+    left: 12%;
+    right: 0%;
+    top: 55%;
+    bottom: 0%;
+    width: 16%;
+    height: 6%;
+    background: #9FE870;
+    border-radius: 35.5vmin;
+    border: none;
+}
+
+#fontDriver {
+
+    position: absolute;
+    left: 27.54%;
+    right: 27.54%;
+    top: 28%;
+    bottom: 28.3%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.5vmin;
+    line-height: 2.7vmin;
+    text-align: center;
+    color: #292929;
+
+}
+
+#source-dest {
+    position: absolute;
+    left: 50%;
+    top: 110%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.6vmin;
+    text-align: center;
+    width: 300%;
+
+    color: #000000;
+}
+
+#time {
+    position: absolute;
+    left: 255%;
+    right: 20%;
+    top: 200%;
+    bottom: -7.41%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.3vmin;
+    text-align: right;
+    color: #292929;
+}
+
+#line {
+    position: absolute;
+    width: 270%;
+    height: 0%;
+    left: 10%;
+    top: 290%;
+    border: 2px solid rgba(0, 0, 0, 0.18);
+    transform: rotate(-180deg);
+}
+
+#phoneIcon {
+    position: absolute;
+    left: 260%;
+    right: 10%;
+    top: 340%;
+    width: 35%;
+    height: 35%;
+
+}
+
+#phone {
+    position: absolute;
+    left: 60%;
+    right: 30%;
+    top: 75%;
+    bottom: -14.29%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.6vmin;
+    line-height: 2.3vmin;
+    /* identical to box height */
+    text-align: right;
+    color: #292929;
+}
+
+#emailIcon {
+    position: absolute;
+    left: 260%;
+    right: 10%;
+    top: 390%;
+    width: 35%;
+    height: 35%;
+}
+
+#email {
+    position: absolute;
+    left: 37%;
+    right: 20%;
+    top: 85%;
+    bottom: -14.29%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.6vmin;
+    line-height: 2.1vmin;
+    /* identical to box height */
+    text-align: right;
+    color: #292929;
+}
+
+#forgotPassword {
+    position: absolute;
+    left: 34%;
+    right: 450%;
+    top: 70%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.3vmin;
+    line-height: 2.2vmin;
+    /* identical to box height */
+    width: 10%;
+    text-align: right;
+    text-decoration: none;
+    color: #292929;
+}
+
+#register {
+    position: absolute;
+    left: 24%;
+    right: 450%;
+    top: 75%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.3vmin;
+    line-height: 2.2vmin;
+    /* identical to box height */
+    width: 20%;
+    text-align: right;
+    text-decoration: none;
+    color: #292929;
+}
+
+.titleMyAccount{
+    position: absolute;
+    left: 0%;
+    right: 43%;
+    top: 20%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3.7vmin;
+    line-height: 2.7vmin;
+    text-align: center;
+    color: #000000;
+}
+
+#buttonIcon {
+    position: absolute;
+    left: 70%;
+    right: 25%;
+    top: 20%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3.3vmin;
+    line-height: 2.7vmin;
+    text-align: center;
+    color: #000000;
+}
+
+#dialog {
+    background: #FFEEDD;
+}
+
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+    bottom: .500em;
+
+}
+
+#login {
+    position: absolute;
+    left: 24%;
+    right: 450%;
+    top: 75%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.3vmin;
+    line-height: 2.2vmin;
+    width: 50%;
+}
+
+#loginRegister2 {
+    position: absolute;
+    left: 12%;
+    right: 480%;
+    top: 80%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.3vmin;
+    line-height: 2.2vmin;
+    /* identical to box height */
+    width: 20%;
+    text-align: right;
+    text-decoration: none;
+    color: #292929;
+}
+
+#logoFirst {
+
+    margin-left: 90%;
+    margin-top: 0%;
+    height: 10%;
+    width: 10%;
+}
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root {
+
+    width: 33% !important;
+    margin-top:17%;
+    left:12%;
+    background-color:  #F4F0ED;
+    border-radius: 3vmin !important ;
+    border-color: #F4F0ED !important;
+    border-style: none !important;
+}
+.alerting{
+    position: relative;
+}
+.css-1c3trtb-MuiPaper-root-MuiAlert-root {
+    width: 16% !important;
+    position: absolute !important;
+    top:25% !important;
+    right: 56% !important;
+    opacity: 60% !important;
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.87);
+    -webkit-transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    box-shadow: none;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.43;
+    letter-spacing: 0.01071em;
+    background-color: #d32f2f ;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 6px 16px;
+
+    color: #fff;}
+    .logoutHome{
+        border: none;
+        background: none;
+        position: absolute;
+        top:88%;
+        right: 4%;
+        z-index: 3;
+        font-size: 2.5vmin;
+    
+    }
+    .helloTo{
+        top:30%;
+        right: 60%;
+        font-size: 5vmin;
+        position: absolute;
+text-align: center;
+
+    }
+    .p-toast-message-content{
+background-color: rgba(166, 231, 81, 0.45) !important;
+    }
+    .p-button p-component p-button-success w-6rem{
+        background: rgba(166, 231, 81, 0.45) !important;
+ 
+    }
+    .font-bold text-xl my-3{
+        color: #000000;
+    }
+ .p-button.p-button-success{
+  background-color:  #5F8330 !important;
+
+    }
+    .p-toast .p-toast-message.p-toast-message-info {
+        color: gray !important;
+    } 
+    .p-toast .p-toast-message.p-toast-message-info .p-toast-icon-close{        color: gray !important;
+
+    }   
+    .rap{
+        display: flex;
+justify-content: space-between;   
+background-color: #e4f1f9;
+padding: 20px;
+flex-wrap: wrap; }

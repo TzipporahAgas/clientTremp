@@ -1,0 +1,120 @@
+#dateNewDriverAdd {
+  position: relative;
+  left: 51.04%;
+  right: 0%;
+  top: 7%;
+  bottom: 66.11%;
+  width: 49%;
+  background: #f4f0ed;
+
+  border-radius: 3%;
+  height: 5.8vmin;
+  /* margin-top: 20%; */
+  border-color: rgb(204, 200, 200);
+  border-width: 1px;
+  border-style: groove;
+
+}
+
+
+#sourceCity4 {
+
+  position: absolute;
+  background-color: #F4F0ED;
+  right: 1.5%;
+  margin: 3%;
+  width: 45%;
+  top: 15%;
+  text-align: center;
+}
+
+#sourceStreet4 {
+  position: absolute;
+  background-color: #F4F0ED;
+  right: 48%;
+  margin: 3%;
+  width: 45%;
+  top: 15%;
+  text-align: center;
+}
+
+#destinationCity4 {
+  position: absolute;
+  background-color: #F4F0ED;
+  right: 1.5%;
+  margin: 3%;
+  width: 45%;
+  top: 25%;
+  text-align: center;
+}
+
+#destinationStreet4 {
+  position: absolute;
+  background-color: #F4F0ED;
+  right: 48%;
+  margin: 3%;
+  width: 45%;
+  top: 25%;
+  text-align: center;
+}
+
+#boyGirl {
+  position: absolute;
+  background-color: #F4F0ED;
+  right: 48%;
+  margin: 3%;
+  width: 45%;
+  top: 35%;
+  text-align: center;
+}
+
+#numberOfSeets2 {
+  position: absolute;
+  background-color: #F4F0ED;
+  right: 4%;
+  margin: 3%;
+  width: 45%;
+  top: 55%;
+  text-align: center;
+}
+
+#numberOfAvailableSeets2 {
+  position: absolute;
+  background-color: #F4F0ED;
+  right: 50%;
+  margin: 3%;
+  width: 45%;
+  top: 55%;
+  text-align: center;
+}
+
+#price4 {
+  position: absolute;
+  background-color: #F4F0ED;
+  right: 4%;
+  margin: 3%;
+  width: 45%;
+  top: 65%;
+  text-align: center;
+}
+
+#hours12 {
+  position: absolute;
+  background-color: #F4F0ED;
+  right:0.5%;
+  margin: 3%;
+  width: 45%;
+  top: 56%;
+  text-align: center;
+
+}
+#minuts12 {
+  position: absolute;
+  
+  right: 48%;
+  margin: 3%;
+  width: 45%;
+  top: 56%;
+  text-align: center;
+
+}

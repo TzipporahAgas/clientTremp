@@ -1,0 +1,104 @@
+#driveAdvertismentGrid {
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    left: 0%;
+    top: 12%;
+    border-style: none;
+
+
+
+}
+
+/* #dBody2{  
+    position: absolute;
+    width: 100%;
+    height: 40%;
+    left: 0%;
+    top: 12%;
+    border-style: none;
+    overflow-y:scroll;
+
+    display:block;
+} */
+#paginagionInDriver {
+    margin-top: 58%;
+    margin-left: 40%;
+}
+
+.addDrive {
+    font-style: normal !important;
+    font-weight: 650 !important;
+    font-size: 1.5vmin !important;
+    color: #537429 !important;
+
+}
+
+.notAllowed {
+    cursor: not-allowed;
+}
+.notAllowedOk{
+    cursor: not-allowed;
+}
+.searchInDriverAdvertismentGrid{
+  
+        /* margin-left:  50%; */
+       /* top: 5vmin; */
+    position: absolute;
+    right: 80%;
+    top: 4%;
+    width: 20%;
+    height: 6%;
+    font-size: 2vmin;
+    border-radius: 5%;
+    background: url("../icons/search.png") no-repeat left;
+    
+  
+}
+.loader{
+    width: 70px !important;
+    height: 70px !important;
+    position: absolute!important;
+    left: 50%!important;
+    top: 50%!important;
+    color: #000000a6!important;
+}
+.css-frvpmh-MuiPaper-root-MuiAlert-root{
+  /* top: 0% !important; */
+
+}
+.noItemfoundDriveAdvertisment{
+    margin-top:10%;
+}
+.driveradd12{
+    position: absolute;
+width: 20%;
+height: 5vmin;
+top:0%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 4vmin;
+text-align: right;
+margin-left:78%;
+color: #292929;
+}
+.driveradd13{
+    position: absolute;
+width: 40%;
+height: 30%;
+top:6%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 200;
+font-size:2.5vmin;
+line-height: 120%;
+text-align: right;
+margin-left:58%;
+color: #292929;
+}
+.trTableDriverAdvertisments{
+background-color: #dabcc7 ;
+border-style: none;
+height: 1.5vmin;
+}

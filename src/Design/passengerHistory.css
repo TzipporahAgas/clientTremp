@@ -1,0 +1,196 @@
+#historyDrive85 {
+    background-color: white;
+    border-radius:4%;
+    height:12.5vmin;
+    width: 148%;
+    position: relative;
+    left: -27%;
+    box-shadow: 4px 4px 9px 13px rgba(184, 205, 156, 0.04);
+    border-radius: 10px;
+    margin: 3.5%;
+
+
+    /* top:1vmin; */
+    /* margin-top: 220vmin;  */
+    /* margin-bottom:100%; */
+  /* margin-left: 70%;
+    left: -28%; */
+
+ 
+}
+
+#first_lastName85 {
+    position: absolute;
+    left: 10%;
+    right: 3%;
+    top: 8%;
+    bottom: 73.83%;
+    width: 50%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2vmin;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #292929;
+}
+
+#sourse85 {
+    position: absolute;
+    /* left: 10%; */
+    right: 3%;
+    top: 30%;
+    bottom: 73.83%;
+    width: 30%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.6vmin;
+    line-height: 140%;
+    /* identical to box height */
+    text-align: right;
+    color: #292929;
+}
+
+#destination85 {
+    position: absolute;
+    left: 0%;
+    right: 65%;
+    /* margin-left: 30%; */
+    /* margin-right: 60%; */
+    top: 30%;
+    bottom: 73.83%;
+    width: 30%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.6vmin;
+    line-height: 140%;
+    /* identical to box height */
+    text-align: right;
+    color: #292929;
+}
+
+
+#phone85 {
+  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vmin;
+
+    margin-right: 22%;
+    margin-top: 8%;
+   
+    text-align: right;
+    color: #949494;
+
+  
+}
+
+#email85 {
+    /* width: 250%; */
+    /* height: 18px; */
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vmin;
+    /* line-height: 18px; */
+    /* identical to box height */
+    margin-right: 47%;
+    text-align: right;
+    color: #949494;
+    margin-top: -5%;
+
+    /* Inside auto layout */
+
+
+}
+
+#phoneIcon85 {
+    /* width: 50%; */
+    /* height: 18px; */
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    /* font-size: 14px; */
+    /* line-height: 18px; */
+    /* identical to box height */
+    /* margin-right: 15%; */
+    /* margin-top: 14%; */
+    /* top:100px; */
+    /* margin-top: 15%; */
+    text-align: right;
+    color: #949494;
+    /* Inside auto layout */
+
+ 
+}
+
+#emailIcon85 {
+    /* margin-top: 2%;
+    left: 10%;
+    right: 50%;
+    top: 0%;
+    width: 35%;
+    height: 35%; */
+    width: 68%;
+    height: 18%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    /* font-size: 12px; */
+    /* line-height: 18px; */
+    /* identical to box height */
+    margin-right: 50%;
+    margin-bottom: -10%;
+    text-align: right;
+    color: #949494;
+    margin-top: -6%;
+
+}
+
+#date_time85 {
+    position: absolute;
+    left: 10%;
+    right: 78%;
+    top: 8%;
+    bottom: 73.83%;
+    width: 50%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.55vmin;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #292929;
+}
+
+
+
+#line85{
+    margin-top:3%;
+    color: #949494;
+    margin-right: 37%;
+    /* color: black; */
+}
+#day2 {
+    width: 70%;
+
+    font-family: 'Heebo';
+    font-style: normal;
+
+    font-size: 2vmin;
+
+    margin-left: 24%;
+    color: #292929;
+}
+#passengerHistoryPagination{
+    margin-left:35%;
+
+}

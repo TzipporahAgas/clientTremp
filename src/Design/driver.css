@@ -1,0 +1,129 @@
+#PassengersRequestsGrid{
+    height: 80%;
+    width: 65%;
+    position: absolute;
+    left: 34%;
+    right: 25%;
+    top: 15%;
+
+}
+#DriverMyDrives{
+    height: 94%;
+    width: 30%;
+    position: absolute;
+    left: 2%;
+    /* right:-800%; */
+    top: 3%;
+background:#F4F0ED;
+    border-radius: 2%;
+
+}
+.driveHistoryButton{
+    position: absolute;
+    /* left: 0%; */
+    right: 33%;
+    /* top: -100%; */
+    /* z-index: 3; */
+    bottom: 92.5%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size:2.5vmin;
+    line-height: 80%;
+    text-align: center;
+    border-style: none;
+    color: #537328;
+    margin-top: 8%;
+margin-left:40% ;
+}
+.driveHistoryButton1{
+    position: absolute;
+    /* left: 0%; */
+    right: 22%;
+    /* top: -100%; */
+    /* z-index: 3; */
+    width: 40%;
+    bottom: 92.5%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size:2.5vmin;
+    line-height: 80%;
+    text-align: center;
+    border-style: none;
+    color: #537328;
+    margin-top: 8%;
+margin-left:40% ;
+}
+#AddDriveButton{
+    /* display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 16px; */
+margin-top: 6%;
+margin-left:5% ;
+width: 30%;
+height: 5vmin;
+/* position: absolute; */
+/* right: 10%; */
+left:10px;
+background: #9FE870;
+border-radius: 25vmin;
+/* border-color: #9FE870; */
+border-style: none;
+/* Inside auto layout */
+
+/* flex: none;
+order: 0;
+flex-grow: 0; */
+}
+.logo1{
+    width:7%;
+height: 7%;
+position: absolute;
+top: 4%;
+right: 1%;
+}
+.name4{
+    top:5%;
+    position: absolute;
+    right: 7%;
+    /* margin-left: 40%;
+    margin-top: 3%; */
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 3vmin;
+color: #537429;
+width: 20%;
+text-align: right;
+}
+#editUserName2{
+    position: absolute;
+    left: 72%;
+    right: 100%;
+    top: 9.5%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8vmin;
+    line-height: 2.2vmin;
+    /* identical to box height */
+    width: 20%;
+    text-align: right;
+    color: #292929;
+    border: none;
+    background: none;
+}
+.logoutDriver{
+    border: none;
+    background: none;
+    position: absolute;
+    top:88%;
+    right: 4%;
+    z-index: 3;
+    font-size: 2.5vmin;
+
+}
+

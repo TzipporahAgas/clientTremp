@@ -1,0 +1,88 @@
+#dateNewPassengerAdd {
+    position: relative;
+    left: 51.04%;
+    right: 0%;
+    top: 4.5%;
+    bottom: 66.11%;
+    width: 49%;
+    background: #f4f0ed;
+  
+    border-radius: 3%;
+    height: 5.8vmin;
+    /* margin-top: 20%; */
+    border-color: rgb(204, 200, 200);
+    border-width: 1px;
+    border-style: groove;
+  
+  }
+
+  #sourceCityPassengerRequest{
+    position: absolute;
+  background-color: #F4F0ED;
+  right: 1.5%;
+  margin: 3%;
+  width: 45%;
+  top: 15%;
+  text-align: center;
+  }
+  #sourceStreetPassengerRequest{
+    position: absolute;
+    background-color: #F4F0ED;
+    right: 48%;
+    margin: 3%;
+    width: 45%;
+    top: 15%;
+    text-align: center;
+  }
+  #destinationCityPassengerRequest{
+    position: absolute;
+    background-color: #F4F0ED;
+    right: 1.5%;
+    margin: 3%;
+    width: 45%;
+    top: 25%;
+    text-align: center;
+  }
+  #destinationStreetPassengerRequest{
+    position: absolute;
+    background-color: #F4F0ED;
+    right: 48%;
+    margin: 3%;
+    width: 45%;
+    top: 25%;
+    text-align: center;
+  }
+  #hoursPassengerRequest{
+    position: absolute;
+    background-color: #F4F0ED;
+    right:0.5%;
+    margin: 3%;
+    width: 45%;
+    top: 37%;
+    text-align: center;
+  }
+  #minutsPassengerRequest{
+    position: absolute;
+    right: 48%;
+    margin: 3%;
+    width: 45%;
+    top: 37%;
+    text-align: center;
+  }
+  #lablePassengerRequest{
+    width: 70%;
+     /* height: 20%; */
+     background-color:"#F4F0ED";
+     margin-top:50%;
+     /* right:-1vmin; */
+     left:50%
+  }
+  .numberOfWantedSeets{
+     position: absolute;
+    background-color: #F4F0ED;
+    right: 48%;
+    margin: 3%;
+    width: 45%;
+    margin-top:50%;
+    text-align: center;
+  }

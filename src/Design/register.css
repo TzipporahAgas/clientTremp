@@ -1,0 +1,145 @@
+#register2 {
+    position: relative;
+    left: 24%;
+    right: 450%;
+    margin-top: 15%;
+    font-family: 'Almoni ML v5 AAA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.3vmin;
+    line-height: 2.2vmin;
+    width: 20%;
+
+}
+
+.titleRegister{
+    /* position: absolute; */
+    left: 55%;
+    right: 3.75%;
+
+    margin-top: -45%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-size: 3.5vmin;
+    width: 40%;
+    position: absolute;
+    left: 0%;
+    right: 43%;
+    top: 20%;
+    font-family: 'Noto Sans Hebrew';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3.7vmin;
+    line-height: 2.7vmin;
+    text-align: center;
+    color: #000000;
+}
+
+#firstnameRegister {
+    position: absolute;
+    left: 26.39%;
+    right: 60%;
+    top: 6%;
+    bottom: 63.18%;
+    height: 5.5vmin;
+    width: 60%;
+    border-style: none;
+    background: #F4F0ED;
+    border-radius: 1vmin;
+    text-align: calc(110%);
+}
+
+#lastnameRegister {
+    position: relative;
+    left: -40%;
+    right: 80%;
+    margin-top: -120vmin;
+
+    height: 5.5vmin;
+    width: 60%;
+    border-style: none;
+    background: #F4F0ED;
+    border-radius: 1vmin;
+}
+
+#emailRegister { 
+    position: relative;
+    left: -40%;
+    right: 80%;
+    top: 20%;
+    bottom: 70%;
+    height: 5.5vmin;
+    width: 127%;
+    border-style: none;
+    background: #F4F0ED;
+    border-radius: 1vmin;
+    text-align: calc(110%);
+}
+
+#phoneRegister {
+    position: relative;
+    left: -40%;
+    right: 80%;
+    top: 7%;
+    bottom: 63.18%;
+    height: 5.5vmin;
+    width: 127%;
+    border-style: none;
+    background: #F4F0ED;
+    border-radius: 1vmin;
+    text-align: calc(110%);
+}
+
+#passwordRegister{
+    position: relative;
+    left: -40%;
+    right: 80%;
+    top: 7%;
+    bottom: 63.18%;
+    height: 5.5vmin;
+    width: 127%;
+    border-style: none;
+    background: #F4F0ED;
+    border-radius:1vmin;
+    text-align: calc(110%);   
+}
+
+#genderRegister{
+    position: relative;
+    left: 60%;
+    right: 20%;
+    margin-top: 7%;
+    bottom: 40%;
+    height: 5.5vmin;
+    width: 27%;
+    border-style: none;
+    background: #F4F0ED;
+    border-radius:1vmin;
+    text-align: calc(110%);   
+}
+.optionsRegister{
+    position: relative;
+    left: 60%;
+    right: 20%;
+    margin-top: 7%;
+    bottom: 40%;
+    height: 5.5vmin;
+    width: 27%;
+    border-style: none;
+    background: #F4F0ED;
+    border-radius:1vmin;
+    text-align: calc(110%);  
+}
+
+#loginRegister{
+ display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+width: 35%;
+height: 4vmin;
+margin-top: -25%;
+background: #9FE870;
+border-radius: 25px;
+border-style: none;
+}

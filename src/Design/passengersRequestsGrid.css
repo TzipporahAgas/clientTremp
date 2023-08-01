@@ -1,0 +1,80 @@
+
+.tdGrid{
+    border-style: none; 
+    height: 50%;
+    font-size: 2vmin;
+text-align: center;
+}
+.trTablePassengerRequest2{
+
+background-color: #dac5bc !important;
+border-style: none;
+height: 1.5vmin;
+}
+#dtBasicExample{
+position: absolute;
+width: 100%;
+height: 10%;
+left: 0%;
+top: 12%;
+border-style: none;
+/* background: #DAC9BC; */
+}
+#add{
+font-style: normal;
+font-weight: 650;
+font-size: 1.5vmin;  
+color:#537429
+}
+.pasengerRequst12{
+    position: absolute;
+width: 20%;
+height: 5vmin;
+top:0%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 4vmin;
+text-align: right;
+margin-left:78%;
+color: #292929;
+}
+.pasengerRequst13{
+    position: absolute;
+width: 40%;
+height: 30%;
+top:6%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 200;
+font-size:2.5vmin;
+line-height: 120%;
+text-align: right;
+margin-left:58%;
+color: #292929;
+}
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+background-color:#F4F0ED;
+border-style: none; 
+}
+#paginagionInPassengerRequest{
+    margin-top:50%;
+    margin-left: 40%;
+}
+.searchInPassengerRequestGrid{
+    /* margin-left:  50%; */
+   /* top: 5vmin; */
+position: absolute;
+right: 80%;
+top: 4%;
+width: 20%;
+height: 6%;
+font-size: 2vmin;
+border-radius: 5%;
+background: url("../icons/search.png") no-repeat left;
+
+}
+.notFound{
+    margin-top:10%
+}
